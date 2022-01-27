@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arsiamallahbinhaq
 - 👀 I’m interested in Data Engineering, Data Analysis, and Data Science
 - 🌱 I’m currently learning Python, SQL, and GoLang
-- 💞️ I’m looking to collaborate on Data Engineering Project
+- 💞️ I’m looking to collaborate on Data Analysis and Data Engineering Project
 - 📫 How to reach me via Linkedin: arsiamallahbinhaq
 
 <!---
